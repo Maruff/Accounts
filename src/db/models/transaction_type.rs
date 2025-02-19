@@ -1,0 +1,1 @@
+// Model for the transaction_type table

@@ -1,0 +1,1 @@
+// Model for the exchange_rate table

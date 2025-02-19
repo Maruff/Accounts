@@ -1,0 +1,1 @@
+// Model for the journal table
